@@ -1,16 +1,23 @@
-# astronomy_picture_of_the_day
+# Astronomy Picture of the Day
 
-A new Flutter project.
+Aplicativo para Flutter que carrega as fotos publicas liberadas pela NASA. 
 
-## Getting Started
+## Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter 3.19.6
+- Dart 3.3.4
+- Google Maps API
+- Geolocator Package
+- HTTP Package
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone este repositório.
+2. Navegue até o diretório do projeto.
+3. Execute `flutter pub get` para instalar as dependências.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Usar
+
+1. Execute o aplicativo em um emulador ou dispositivo Android/iOS;
+2. O Aplicativo ja vai trazer os dados automaticos;
+3. Pode ser feito uma busca por data.
