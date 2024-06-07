@@ -6,9 +6,6 @@ Aplicativo para Flutter que carrega as fotos publicas liberadas pela NASA.
 
 - Flutter 3.19.6
 - Dart 3.3.4
-- Google Maps API
-- Geolocator Package
-- HTTP Package
 
 ## Instalação
 
